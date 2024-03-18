@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <div className="flex justify-evenly">
-        <h2>FoodVilla</h2>
+        <h1>FoodVilla</h1>
         <ul className="flex">
           <li>
             <Link to="/">Home</Link>
